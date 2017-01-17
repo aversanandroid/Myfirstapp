@@ -23,6 +23,9 @@ public class MainActivity extends AppCompatActivity {
                if(Etext.getText().toString().equalsIgnoreCase("Prem"))
                 {
                     setContentView(R.layout.activity_main);
+                    Log.d("test","sdf");
+                    Log.d("test","sdf");Log.d("test","sdf");
+
                 }
             }
         });
